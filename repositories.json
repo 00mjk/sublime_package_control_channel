@@ -1,0 +1,21 @@
+{
+    "schema_version": "1.0",
+    "repositories": [
+        "http://sublime.wbond.net/packages.json",
+        "https://github.com/buymeasoda/soda-theme",
+        "https://github.com/SublimeText",
+        "https://github.com/Kronuz/SublimeCodeIntel",
+        "https://github.com/Kronuz/SublimeLinter",
+        "https://github.com/mrmartineau/Placeholders",
+        "https://github.com/mrmartineau/HTML5",
+        "https://github.com/pyparadigm/SublimeBrackets",
+        "https://github.com/dcramer/SublimeFlakes",
+        "https://github.com/seaofclouds/sass-textmate-bundle",
+        "https://github.com/squ1b3r/Djaneiro",
+        "https://github.com/vorushin/sublimetext_python_checker",
+        "https://github.com/drnic/javascript-node.tmbundle"
+    ],
+    "package_name_map": {
+        "soda-theme": "Theme - Soda"
+    }
+}
