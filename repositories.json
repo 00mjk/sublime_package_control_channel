@@ -15,7 +15,8 @@
         "https://github.com/vorushin/sublimetext_python_checker",
         "https://github.com/drnic/javascript-node.tmbundle",
         "https://github.com/jashkenas/coffee-script-tmbundle",
-        "https://github.com/SublimeText/LaTeXTools"
+        "https://github.com/SublimeText/LaTeXTools",
+        "https://github.com/JulianEberius/SublimeRope"
     ],
     "package_name_map": {
         "soda-theme": "Theme - Soda"
