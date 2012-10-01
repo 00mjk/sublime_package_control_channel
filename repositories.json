@@ -17,7 +17,8 @@
         "https://github.com/jashkenas/coffee-script-tmbundle",
         "https://github.com/SublimeText/LaTeXTools",
         "https://github.com/JulianEberius/SublimeRope",
-        "https://bitbucket.org/guillermooo/aaapackagedev"
+        "https://bitbucket.org/guillermooo/aaapackagedev",
+        "https://github.com/berryp/SublimeQSL"
     ],
     "package_name_map": {
         "soda-theme": "Theme - Soda"
