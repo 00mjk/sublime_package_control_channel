@@ -2,6 +2,7 @@
     "schema_version": "1.0",
     "repositories": [
         "https://github.com/berryp/SublimeQSL",
-        "https://github.com/ProLoser/AngularJs.tmbundle"
+        "https://github.com/ProLoser/AngularJs.tmbundle",
+        "https://github.com/textmate/gettext.tmbundle"
     ]
 }
