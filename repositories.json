@@ -5,6 +5,7 @@
         "https://github.com/ProLoser/AngularJs.tmbundle",
         "https://github.com/textmate/gettext.tmbundle",
         "https://github.com/DisposaBoy/GoSublime.git",
-        "https://github.com/mkrautz/goimport.git"
+        "https://github.com/mkrautz/goimport.git",
+        "https://github.com/danielmagnussons/orgmode"
     ]
 }
