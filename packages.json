@@ -1,0 +1,21 @@
+
+{
+    "schema_version": "2.0",
+    "packages": [
+        {
+            "name": "SublimeQSL",
+            "description": "Syntax highlighting for the QSL DSL",
+            "author": "Berry Phillips",
+            "homepage": "http://www.yougov.com/",
+            "details": "https://github.com/berryp/SublimeQSL",
+            "releases": [
+                {
+                    "date": "2014-09-09 14:00",
+                    "version": "1.0.0",
+                    "url": "https://github.com/berryp/SublimeQSL/blob/master/v1.0.0/SublimeQSL-master.sublime-package"
+                }
+            ]
+        }
+    ]
+}
+
